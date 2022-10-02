@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.27)  3 OCT 2022 00:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.27)  3 OCT 2022 01:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1019,75 +1019,7 @@ File: figures//0.png Graphic file (type bmp)
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 39.
- [2] (./chapters/chapter1.tex
-File: figures//4.png Graphic file (type bmp)
-<figures//4.png>
-File: figures//5.png Graphic file (type bmp)
-<figures//5.png>
-File: figures//1.png Graphic file (type bmp)
-<figures//1.png>
- [3]
-File: figures//2.png Graphic file (type bmp)
-<figures//2.png>
-File: figures//3.png Graphic file (type bmp)
-<figures//3.png>
-File: figures//6.png Graphic file (type bmp)
-<figures//6.png>
-File: figures//7.png Graphic file (type bmp)
-<figures//7.png>
- [4]
-File: figures//20.png Graphic file (type bmp)
-<figures//20.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
-
-
-Overfull \hbox (9.33228pt too wide) in paragraph at lines 65--68
-[]\TU/lmr/m/n/10.53937 2.A\TU/SimSun(0)/m/n/10.53937 、| \TU/lmr/m/n/10.53937 B\TU/SimSun(0)/m/n/10.53937 、| \TU/lmr/m/n/10.53937 C \TU/SimSun(0)/m/n/10.53937 三 点 共 线，| \TU/lmr/m/n/10.53937 O \TU/SimSun(0)/m/n/10.53937 点 在 直 线 外。| $\OML/cmm/m/it/10.53937 O[]; O[]; O[]$ \TU/SimSun(0)/m/n/10.53937 分 别 为 $\OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 OAB; \OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 OBC; \OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 OCA$ \TU/SimSun(0)/m/n/10.53937 的 外 心\TU/lmr/m/n/10.53937 . \TU/SimSun(0)/m/n/10.53937 求 证：| $\OML/cmm/m/it/10.53937 O; O[]; O[]; O[]$
- []
-
-File: figures//21.png Graphic file (type bmp)
-<figures//21.png>
-[5]
-File: figures//22.png Graphic file (type bmp)
-<figures//22.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-File: figures//23.png Graphic file (type bmp)
-<figures//23.png>
-File: figures//24.png Graphic file (type bmp)
-<figures//24.png>
-) [6] (./chapters/chapter2.tex
+ [2] (./chapters/chapter2.tex
 File: figures//8.png Graphic file (type bmp)
 <figures//8.png>
 
@@ -1097,7 +1029,7 @@ Overfull \hbox (2.3966pt too wide) in paragraph at lines 47--50
 
 File: figures//9.png Graphic file (type bmp)
 <figures//9.png>
-[7]
+[3]
 File: figures//10.png Graphic file (type bmp)
 <figures//10.png>
 File: figures//11.png Graphic file (type bmp)
@@ -1106,7 +1038,7 @@ File: figures//12.png Graphic file (type bmp)
 <figures//12.png>
 File: figures//13.png Graphic file (type bmp)
 <figures//13.png>
- [8]
+ [4]
 File: figures//15.png Graphic file (type bmp)
 <figures//15.png>
 File: figures//16.png Graphic file (type bmp)
@@ -1117,12 +1049,12 @@ File: figures//18.jpg Graphic file (type bmp)
 <figures//18.jpg>
 File: figures//19.png Graphic file (type bmp)
 <figures//19.png>
- [9]
+ [5]
 File: figures//25.png Graphic file (type bmp)
 <figures//25.png>
 File: figures//26.png Graphic file (type bmp)
 <figures//26.png>
- [10]
+ [6]
 File: figures//27.png Graphic file (type bmp)
 <figures//27.png>
 File: figures//28.png Graphic file (type bmp)
@@ -1134,14 +1066,14 @@ Overfull \hbox (25.86703pt too wide) in paragraph at lines 145--146
  [] 
  []
 
-[11]
+[7]
 File: figures//30.png Graphic file (type bmp)
 <figures//30.png>
 File: figures//31.png Graphic file (type bmp)
 <figures//31.png>
 File: figures//32.png Graphic file (type bmp)
 <figures//32.png>
-) [12] (./chapters/chapter3.tex
+) [8] (./chapters/chapter3.tex
 File: figures//33.png Graphic file (type bmp)
 <figures//33.png>
 
@@ -1151,14 +1083,14 @@ Overfull \hbox (30.38445pt too wide) in paragraph at lines 14--15
 
 File: figures//34.jpg Graphic file (type bmp)
 <figures//34.jpg>
-[13]
+[9]
 File: figures//35.png Graphic file (type bmp)
 <figures//35.png>
 File: figures//36.png Graphic file (type bmp)
 <figures//36.png>
 File: figures//37.png Graphic file (type bmp)
 <figures//37.png>
- [14]
+ [10]
 Overfull \hbox (7.25755pt too wide) in paragraph at lines 58--61
 []\TU/lmr/m/n/10.53937 4. \TU/SimSun(0)/m/n/10.53937 圆 内 接 四 边 形 \TU/lmr/m/n/10.53937 ABCD \TU/SimSun(0)/m/n/10.53937 的 对 角 线 交 于 点 \TU/lmr/m/n/10.53937 K\TU/SimSun(0)/m/n/10.53937 ，|  点 \TU/lmr/m/n/10.53937 M \TU/SimSun(0)/m/n/10.53937 和 \TU/lmr/m/n/10.53937 N \TU/SimSun(0)/m/n/10.53937 分 别 是 对 角 线 \TU/lmr/m/n/10.53937 AC \TU/SimSun(0)/m/n/10.53937 和 \TU/lmr/m/n/10.53937 BD \TU/SimSun(0)/m/n/10.53937 的 中 点，| $\OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 ADM; \OMS/cmsy/m/n/10.53937 4\OML/cmm/m/it/10.53937 BCM$
  []
@@ -1278,28 +1210,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--90
 
  []
 
-[15]
+[11]
 File: figures//38.png Graphic file (type bmp)
 <figures//38.png>
 File: figures//39.png Graphic file (type bmp)
 <figures//39.png>
 File: figures//40.png Graphic file (type bmp)
 <figures//40.png>
-) [16] (./chapters/chapter4.tex
+) [12] (./chapters/chapter4.tex
 File: figures//41.png Graphic file (type bmp)
 <figures//41.png>
 File: figures//42.jpg Graphic file (type bmp)
 <figures//42.jpg>
 File: figures//43.png Graphic file (type bmp)
 <figures//43.png>
- [17]
+ [13]
 File: figures//44.png Graphic file (type bmp)
 <figures//44.png>
 File: figures//45.png Graphic file (type bmp)
 <figures//45.png>
 File: figures//46.png Graphic file (type bmp)
 <figures//46.png>
-) [18] (./chapters/chapter5.tex
+) [14] (./chapters/chapter5.tex
 File: figures//51.png Graphic file (type bmp)
 <figures//51.png>
 
@@ -1329,7 +1261,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
-[19]
+[15]
 File: figures//48.png Graphic file (type bmp)
 <figures//48.png>
 
@@ -1359,10 +1291,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--47
 
  []
 
-[20]
+[16]
 File: figures//50.png Graphic file (type bmp)
 <figures//50.png>
- [21]
+ [17]
 File: figures//52.png Graphic file (type bmp)
 <figures//52.png>
 
@@ -1392,7 +1324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--92
 
 File: figures//53.png Graphic file (type bmp)
 <figures//53.png>
-[22]
+[18]
 File: figures//54.png Graphic file (type bmp)
 <figures//54.png>
 File: figures//55.png Graphic file (type bmp)
@@ -1404,7 +1336,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
 File: figures//57.png Graphic file (type bmp)
 <figures//57.png>
-) [23] (./chapters/chapter6.tex
+) [19] (./chapters/chapter6.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--25
 
  []
@@ -1479,7 +1411,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--25
 
  []
 
-[24]
+[20]
 File: figures//58.png Graphic file (type bmp)
 <figures//58.png>
 
@@ -1491,14 +1423,14 @@ File: figures//59.png Graphic file (type bmp)
 <figures//59.png>
 File: figures//60.png Graphic file (type bmp)
 <figures//60.png>
-) [25] (./chapters/chapter7.tex
+) [21] (./chapters/chapter7.tex
 File: figures//61.png Graphic file (type bmp)
 <figures//61.png>
 File: figures//62.png Graphic file (type bmp)
 <figures//62.png>
 File: figures//63.png Graphic file (type bmp)
 <figures//63.png>
- [26]
+ [22]
 File: figures//68.png Graphic file (type bmp)
 <figures//68.png>
 File: figures//69.png Graphic file (type bmp)
@@ -1510,14 +1442,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
 File: figures//70.png Graphic file (type bmp)
 <figures//70.png>
-) [27] (./chapters/chapter8.tex
+) [23] (./chapters/chapter8.tex
 File: figures//72.png Graphic file (type bmp)
 <figures//72.png>
 File: figures//71.png Graphic file (type bmp)
 <figures//71.png>
 File: figures//73.png Graphic file (type bmp)
 <figures//73.png>
- [28]
+ [24]
 File: figures//74.png Graphic file (type bmp)
 <figures//74.png>
 
@@ -1534,15 +1466,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
 File: figures//76.png Graphic file (type bmp)
 <figures//76.png>
-[29]
+[25]
 File: figures//77.jpg Graphic file (type bmp)
 <figures//77.jpg>
-) [30] (./chapters/chapter9.tex
+) [26] (./chapters/chapter9.tex
 File: figures//64.png Graphic file (type bmp)
 <figures//64.png>
 File: figures//65.png Graphic file (type bmp)
 <figures//65.png>
- [31]
+ [27]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
@@ -1557,7 +1489,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--56
 
  []
 
-[32] [33]
+[28] [29]
 Underfull \hbox (badness 10000) in paragraph at lines 94--97
 
  []
@@ -1622,7 +1554,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--140
 
  []
 
-[34] [35]
+[30] [31]
 Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
@@ -1687,7 +1619,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
-[36]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
@@ -1702,7 +1634,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
-[37] [38] [39]
+[33] [34] [35]
 Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
@@ -1717,17 +1649,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 319--322
 
  []
 
-[40]) [41] (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B0D1E668BCA74BFA864D793582347949;3559.
+[36]) [37] (./main.aux)
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: B0D1E668BCA74BFA864D793582347949;3559
+(rerunfilecheck)             After:  B4AD273B4E13496A014CEF7D2BF51619;3181.
  ) 
 Here is how much of TeX's memory you used:
- 38997 strings out of 476179
- 883065 string characters out of 5813072
+ 38802 strings out of 476179
+ 880107 string characters out of 5813072
  1187760 words of memory out of 5000000
- 59093 multiletter control sequences out of 15000+600000
+ 58908 multiletter control sequences out of 15000+600000
  484516 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,8n,99p,454b,834s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,8n,99p,454b,838s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (41 pages).
+Output written on main.pdf (37 pages).
